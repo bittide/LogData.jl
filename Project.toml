@@ -1,0 +1,9 @@
+name = "Topology"
+uuid = "dc9b759f-4b6f-4c6b-8af8-223bef96c6ca"
+authors = ["Sanjay Lall <sanjaylall@google.com>"]
+version = "0.1.0"
+
+[deps]
+ElasticArrays = "fdbdab4c-e67f-52f5-8c3f-e7b388dad3d4"
+
+
