@@ -1,4 +1,4 @@
-name = "Topology"
+name = "LogData"
 uuid = "dc9b759f-4b6f-4c6b-8af8-223bef96c6ca"
 authors = ["Sanjay Lall <sanjaylall@google.com>"]
 version = "0.1.0"
